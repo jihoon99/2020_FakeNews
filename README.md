@@ -15,7 +15,12 @@ Source of dataset is from https://dacon.io/competitions/official/235658/overview
 1. Deep-CNN
 2. Attention-Bidirectional-LSTM
 3. Bidirectional-LSTM
+
 -> **Deep-CNN** wins!
+
+<img src="./png/2.png"
+     sizes="(min-width: 600px) 100px, 50vw">
+
 
 # Results
 ---
