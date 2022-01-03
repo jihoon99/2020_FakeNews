@@ -1,8 +1,9 @@
 # 2020_Fake_news
 ---
 
-This repo contains a NLP classification task. Folder : 1~7 - EDA, and validation part are not included since this repo wrote for submitting to contest. \
-Source of dataset is from https://dacon.io/competitions/official/235658/overview/description. \
+This repo contains a NLP classification task. \
+Folder : 1~7 - EDA, and validation part are not included since this repo wrote for submitting to contest. \
+Source of dataset is from https://dacon.io/competitions/official/235658/overview/description
 
 # Evaluation of Contest
 - Accuracy : 70%
