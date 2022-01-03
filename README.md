@@ -5,7 +5,6 @@ This repo contains a NLP classification task. Folder : 1~7 - EDA, and validation
 Source of dataset is from https://dacon.io/competitions/official/235658/overview/description. \
 
 # Evaluation of Contest
----
 - Accuracy : 70%
 - Time : 30%
 
@@ -13,11 +12,9 @@ I pass Preliminary round.
 
 
 # Environment
----
 This was took under Colab.
 
 # Model
----
 1. Deep-CNN
 2. Attention-Bidirectional-LSTM
 3. Bidirectional-LSTM
@@ -28,8 +25,7 @@ This was took under Colab.
      sizes="(min-width: 600px) 100px, 50vw">
 
 
-# Results
----
+# Result of Model
 |Embedding|model|time|validation acc|
 |---|---|---|---:|
 |Word2Vec|Deep-CNN|18.5|0.98|
@@ -40,8 +36,7 @@ This was took under Colab.
 |FastText|Attention-Bidirectional-LSTM|57.5|0.96|
 
 
-# Result
----
+# Result of Contest
 I pass Preliminary round.
 
 <img src="./png/1.png"
