@@ -9,6 +9,12 @@ Source of dataset is from https://dacon.io/competitions/official/235658/overview
 - Accuracy : 70%
 - Time : 30%
 
+I pass Preliminary round.
+
+
+# Environment
+---
+This was took under Colab.
 
 # Model
 ---
